@@ -1,0 +1,7 @@
+newPatient: Kim, 55
+newPatient: Saul, 61
+nextPatient: 1
+newPatient: Peter, 41
+nextPatient: 2
+newPatient: Mike, 61
+nextPatient: 3
